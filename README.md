@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Xliofpir
-
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Xliofpir.Xliofpir&title=Visitors)
 ### 🧠 About Me
 - 🔥 I'm passionate about Python, x86 Assembly, and C programming.
 - 📚 Currently learning how to survive (and thrive 🚀).
